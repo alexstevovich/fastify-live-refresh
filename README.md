@@ -89,9 +89,9 @@ npm  install  fastify-live-refresh
 By default, the WebSocket server runs at:
  
 
-- Route: `/ws-HOT-CLIENT-FASTIFY-RESERVED-ROUTE`
+- Route: `/ws-FASTIFY-LIVE-REFRESH-RESERVED-ROUTE`
 
-- Script URL: `/AUTO-INJECTED-BY-HOT-CLIENT-FASTIFY.js`
+- Script URL: `/AUTO-INJECTED-BY-FASTIFY-LIVE-REFRESH.js`
 
   
 

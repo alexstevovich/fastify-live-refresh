@@ -1,10 +1,15 @@
 {
   "name": "fastify-live-refresh",
-  "version": "0.0.1-beta.1",
-  "description": "",
+  "version": "0.0.2-beta.1",
+  "description": "Quick and easy way to refresh the browser from the server so you can see live updates whenever you save your file.",
+  "type": "module",
   "main": "./src/fastify-live-refresh.mjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexstevovich/fastify-life-refresh"
   },
   "author": "Alex Stevovich",
   "license": "MIT",
