@@ -1,6 +1,6 @@
 {
   "name": "fastify-live-refresh",
-  "version": "0.0.2-beta.1",
+  "version": "0.0.3-beta.1",
   "description": "Quick and easy way to refresh the browser from the server so you can see live updates whenever you save your file.",
   "type": "module",
   "main": "./src/fastify-live-refresh.mjs",

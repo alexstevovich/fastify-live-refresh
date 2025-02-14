@@ -100,7 +100,7 @@ You can override the route in the constructors options
  
 ```js
 
-new  HotClientFastify(fastify, { route:  '/my-custom-ws-route' });
+new  FastifyLiveRefresh(fastify, { route:  '/my-custom-ws-route' });
 
 ```
 
