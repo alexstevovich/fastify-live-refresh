@@ -1,0 +1,36 @@
+# Ignore Rust build artifacts
+target/
+**/*.rs.bk
+
+# Ignore Cargo lock file (optional, but recommended for libraries)
+Cargo.lock
+
+# Ignore Rust test & debug output
+debug.log
+*.log
+*.out
+
+# Ignore dependency build artifacts
+/.cargo/
+/.cargo-lock/
+
+# Ignore IDE/editor files
+.idea/
+.vscode/
+*.iml
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+*.swp
+
+# Ignore temporary files
+*.bak
+*.tmp
+*.cache
+
+# Ignore generated documentation
+/tar
+
+# Proprietary
+push-to-remotes.bat

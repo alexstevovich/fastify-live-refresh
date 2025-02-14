@@ -1,0 +1,27 @@
+{
+  "name": "fastify-live-refresh",
+  "version": "0.0.1-beta.1",
+  "description": "",
+  "main": "./src/fastify-live-refresh.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Stevovich",
+  "license": "MIT",
+  "keywords": [
+  "fastify",
+  "websocket",
+  "hot-reload",
+  "live-reload",
+  "hot-client",
+  "fastify-plugin",
+  "auto-reload",
+  "development-tool",
+  "frontend-reload",
+  "websocket-refresh",
+  "fastify-hot-client",
+  "fastify-websocket",
+  "automatic-reload"
+]
+
+}
